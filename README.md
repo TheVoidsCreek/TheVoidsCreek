@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**TheVoidsCreek/TheVoidsCreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rseel, a CS senior based in KSA.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it.
+
+My main tech stack is LAMP, and ASP.NET. 
+
+My favorite tools are IntelliJ IDEA, VS Code, and Figma.
+
+
+My interests are:  Saudi Vision 2030, Artificial Intelligence, Data Science, Cybersecurity.
